@@ -1,0 +1,15 @@
+/Users/justinsimon/Desktop/repos/repos/CollectionsMasterApp/CollectionsMasterConsoleUI/bin/Debug/net6.0/CollectionsMasterConsoleUI
+/Users/justinsimon/Desktop/repos/repos/CollectionsMasterApp/CollectionsMasterConsoleUI/bin/Debug/net6.0/CollectionsMasterConsoleUI.deps.json
+/Users/justinsimon/Desktop/repos/repos/CollectionsMasterApp/CollectionsMasterConsoleUI/bin/Debug/net6.0/CollectionsMasterConsoleUI.runtimeconfig.json
+/Users/justinsimon/Desktop/repos/repos/CollectionsMasterApp/CollectionsMasterConsoleUI/bin/Debug/net6.0/CollectionsMasterConsoleUI.dll
+/Users/justinsimon/Desktop/repos/repos/CollectionsMasterApp/CollectionsMasterConsoleUI/bin/Debug/net6.0/CollectionsMasterConsoleUI.pdb
+/Users/justinsimon/Desktop/repos/repos/CollectionsMasterApp/CollectionsMasterConsoleUI/obj/Debug/net6.0/CollectionsMasterConsoleUI.csproj.AssemblyReference.cache
+/Users/justinsimon/Desktop/repos/repos/CollectionsMasterApp/CollectionsMasterConsoleUI/obj/Debug/net6.0/CollectionsMasterConsoleUI.GeneratedMSBuildEditorConfig.editorconfig
+/Users/justinsimon/Desktop/repos/repos/CollectionsMasterApp/CollectionsMasterConsoleUI/obj/Debug/net6.0/CollectionsMasterConsoleUI.AssemblyInfoInputs.cache
+/Users/justinsimon/Desktop/repos/repos/CollectionsMasterApp/CollectionsMasterConsoleUI/obj/Debug/net6.0/CollectionsMasterConsoleUI.AssemblyInfo.cs
+/Users/justinsimon/Desktop/repos/repos/CollectionsMasterApp/CollectionsMasterConsoleUI/obj/Debug/net6.0/CollectionsMasterConsoleUI.csproj.CoreCompileInputs.cache
+/Users/justinsimon/Desktop/repos/repos/CollectionsMasterApp/CollectionsMasterConsoleUI/obj/Debug/net6.0/CollectionsMasterConsoleUI.dll
+/Users/justinsimon/Desktop/repos/repos/CollectionsMasterApp/CollectionsMasterConsoleUI/obj/Debug/net6.0/refint/CollectionsMasterConsoleUI.dll
+/Users/justinsimon/Desktop/repos/repos/CollectionsMasterApp/CollectionsMasterConsoleUI/obj/Debug/net6.0/CollectionsMasterConsoleUI.pdb
+/Users/justinsimon/Desktop/repos/repos/CollectionsMasterApp/CollectionsMasterConsoleUI/obj/Debug/net6.0/CollectionsMasterConsoleUI.genruntimeconfig.cache
+/Users/justinsimon/Desktop/repos/repos/CollectionsMasterApp/CollectionsMasterConsoleUI/obj/Debug/net6.0/ref/CollectionsMasterConsoleUI.dll
